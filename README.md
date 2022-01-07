@@ -17,6 +17,8 @@ Next, I analyzed the data to find some meaningful information about it:
 * graphed transactions based on if they were male/female and subscriber/nonsubscriber
 * performed calculations like average birth year of customer(1982) and average trip duration(00:16:56) and busiest day of week(Thursday)
 
+![](https://github.com/spensersmith99/Google-Data-Analytics-Case-Study/blob/main/images/gcs_pivottable_members.png)
+
 Finally I offered up some solutions moving forward based on my findings:
 * Since subscribers are mostly males who use the bike for short trips during the week(likely commuting to and from work), advertisements targeted at young, working class men in inner cities would be ideal to capture a larger target audience. 
 * Because the work week is often the most popular days, offering an incentive(discount, bonus points, etc.) for people to use the bikes on the weekend would help.
