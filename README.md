@@ -19,6 +19,10 @@ Next, I analyzed the data to find some meaningful information about it:
 
 ![](https://github.com/spensersmith99/Google-Data-Analytics-Case-Study/blob/main/images/gcs_pivottable_members.png)
 
+![](https://github.com/spensersmith99/Google-Data-Analytics-Case-Study/blob/main/images/gcs_trans_subnonsub_malefemale.png)
+
+
+
 Finally I offered up some solutions moving forward based on my findings:
 * Since subscribers are mostly males who use the bike for short trips during the week(likely commuting to and from work), advertisements targeted at young, working class men in inner cities would be ideal to capture a larger target audience. 
 * Because the work week is often the most popular days, offering an incentive(discount, bonus points, etc.) for people to use the bikes on the weekend would help.
