@@ -21,7 +21,7 @@ Next, I analyzed the data to gain some meaningful knowledge on it:
 
 Next, blah blah blah SQL.
 
-![Link to SQL queries](
+![Link to SQL queries](https://github.com/spensersmith99/Google-Data-Analytics-Case-Study/blob/main/example_queries.sql)
 
 Finally I offered up some solutions based on my findings:
 * Since subscribers are mostly males who use the bike for short trips during the week(likely commuting to and from work), advertisements intended for young, business professionals who work in inner cities would be ideal to capture a larger target audience. 
