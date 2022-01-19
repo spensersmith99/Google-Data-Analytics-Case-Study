@@ -17,13 +17,7 @@ Next, I analyzed the data to gain some meaningful knowledge on it:
 * graphed transactions based on if they were male/female and subscriber/nonsubscriber
 * performed calculations like average birth year of customer(1982), average trip duration(00:16:56), and busiest day of the week(Thursday)
 
-![link](https://github.com/spensersmith99/Google-Data-Analytics-Case-Study/tree/main/images)
-
-![](https://github.com/spensersmith99/Google-Data-Analytics-Case-Study/blob/main/images/gcs_pivottable_members.png)
-
-![](https://github.com/spensersmith99/Google-Data-Analytics-Case-Study/blob/main/images/gcs_trans_subnonsub_malefemale.png)
-
-![](https://github.com/spensersmith99/Google-Data-Analytics-Case-Study/blob/main/images/gcs_weekday_cust.png)
+![Link to aforementioned graphs](https://github.com/spensersmith99/Google-Data-Analytics-Case-Study/tree/main/images)
 
 Finally I offered up some solutions based on my findings:
 * Since subscribers are mostly males who use the bike for short trips during the week(likely commuting to and from work), advertisements intended for young, business professionals who work in inner cities would be ideal to capture a larger target audience. 
