@@ -21,7 +21,7 @@ Next, I analyzed the data using built-in Excel tools:
 
 Then, I took the datasets for the corresponding quarters of 2019 and put them into a SQL database. After appending the four separate tables into one, I ran the following queries: 
 
-  ![Link to SQL queries](https://github.com/spensersmith99/Google-Data-Analytics-Case-Study/blob/main/example_queries.sql)
+![Link to SQL queries](https://github.com/spensersmith99/Google-Data-Analytics-Case-Study/blob/main/example_queries.sql)
 
 Then, I created a Tableau dashboard to visualize the data and help reach important conclusions:
 
