@@ -17,17 +17,19 @@ Next, I analyzed the data using built-in Excel tools:
 * graphed daily transactions based on what day of the week it was 
 * graphed transactions based on if they were male/female and subscriber/nonsubscriber
 
-![Link to aforementioned pivot tables and graphs](https://github.com/spensersmith99/Google-Data-Analytics-Case-Study/tree/main/images)
+![Link to pivot tables and graphs for Q1 2019](https://github.com/spensersmith99/Google-Data-Analytics-Case-Study/tree/main/images)
 
-Next, blah blah blah SQL.
+Then, I took the datasets for the corresponding quarter of 2019 and put them into a SQL database. After appending the four separate tables into one, I ran the following queries: 
 
 ![Link to SQL queries](https://github.com/spensersmith99/Google-Data-Analytics-Case-Study/blob/main/example_queries.sql)
 
-![Download Tableau workbook here](https://github.com/spensersmith99/Google-Data-Analytics-Case-Study/blob/main/spensers_casestudy.twbx)
+Then, I created a Tableau dashboard to visualize the data and help reach important conclusions:
 
-![for just the image](https://github.com/spensersmith99/Google-Data-Analytics-Case-Study/blob/main/Dashboard%201.pdf)
+![If you have Tableau installed, download Tableau workbook here](https://github.com/spensersmith99/Google-Data-Analytics-Case-Study/blob/main/spensers_casestudy.twbx)
 
-Finally I offered up some solutions based on my findings:
+![If you don't, download the image here](https://github.com/spensersmith99/Google-Data-Analytics-Case-Study/blob/main/Dashboard%201.pdf)
+
+Finally, I offered up some solutions based on my findings:
 * Since subscribers are mostly males who use the bike for short trips during the week(likely commuting to and from work), advertisements intended for young, business professionals who work in inner cities would be ideal to capture a larger target audience. 
 * Because the work week is often the most popular days, offering an incentive(discount, bonus points, etc.) for people to use the bikes on the weekend would be beneficial to maintaining a more consistent revenue.
 * Since most of the total bike user population is already comprised of subscribers, resources are best spent acquiring new customers rather than trying to convert current ones into subscribers.
