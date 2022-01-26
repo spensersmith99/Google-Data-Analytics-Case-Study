@@ -19,7 +19,7 @@ Next, I analyzed the data using built-in Excel tools:
 
 ![Link to pivot tables and graphs for Q1 2019](https://github.com/spensersmith99/Google-Data-Analytics-Case-Study/tree/main/images)
 
-Then, I took the datasets for the corresponding quarter of 2019 and put them into a SQL database. After appending the four separate tables into one, I ran the following queries: 
+Then, I took the datasets for the corresponding quarters of 2019 and put them into a SQL database. After appending the four separate tables into one, I ran the following queries: 
 
 ![Link to SQL queries](https://github.com/spensersmith99/Google-Data-Analytics-Case-Study/blob/main/example_queries.sql)
 
@@ -27,9 +27,9 @@ Then, I created a Tableau dashboard to visualize the data and help reach importa
 
 ![If you have Tableau installed, download the Tableau workbook here](https://github.com/spensersmith99/Google-Data-Analytics-Case-Study/blob/main/spensers_casestudy.twbx)
 
-![If you don't, access the image here](https://github.com/spensersmith99/Google-Data-Analytics-Case-Study/blob/main/Dashboard%201.pdf)
+![If you don't, access the dashboard image here](https://github.com/spensersmith99/Google-Data-Analytics-Case-Study/blob/main/Dashboard%201.pdf)
 
 Finally, I offered up some solutions based on my findings:
-* Since subscribers are mostly males who use the bike for short trips during the week(likely commuting to and from work), advertisements intended for young, business professionals who work in inner cities would be ideal to capture a larger target audience. 
-* Because the work week is often the most popular days, offering an incentive(discount, bonus points, etc.) for people to use the bikes on the weekend would be beneficial to maintaining a more consistent revenue.
+* Since subscribers are mostly males who use the bike for short trips during the week(likely commuting to and from work), advertisements intended for young, business professionals who work in inner cities would be ideal to capture a larger audience. 
+* Because the work week is often the most popular days, offering an incentive(discount, bonus points, etc.) for people to use the bikes on the weekend would be beneficial to maintaining a more consistent revenue across the entire week.
 * Since most of the total bike user population is already comprised of subscribers, resources are best spent acquiring new customers rather than trying to convert current ones into subscribers.
