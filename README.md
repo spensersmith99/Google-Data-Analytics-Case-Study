@@ -3,7 +3,7 @@ My Google Data Analytics Case Study.
 
 The goal of this case study was to analyze data from a bike share company called Cyclistic and help determine the best way for them to gain more monthly susbcribers.
 
-## Excel
+### Excel
 I began the project by downloading the relevant company data from the first quarter of 2019 into an Excel spreadsheet. First, I performed the following tasks in order to better understand the information contained in my dataset:
 * removed all duplicates and any blank or null values
 * sorted based on date of transaction (oldest to newest)
