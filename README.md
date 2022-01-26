@@ -25,12 +25,14 @@ Then, I took the datasets for all of the quarters of 2019 and put them into a SQ
 
 ![Link to SQL queries](https://github.com/spensersmith99/Google-Data-Analytics-Case-Study/blob/main/example_queries.sql)
 
+## Tableau 
 Then, I created a Tableau dashboard to visualize the data and help reach important conclusions:
 
 ![If you have Tableau installed, download the Tableau workbook here](https://github.com/spensersmith99/Google-Data-Analytics-Case-Study/blob/main/spensers_casestudy.twbx)
 
 ![If you don't, access the dashboard image here](https://github.com/spensersmith99/Google-Data-Analytics-Case-Study/blob/main/Dashboard%201.pdf)
 
+## Conclusions
 Finally, I offered up some solutions based on my findings:
 * Since subscribers are mostly males who use the bike for short trips during the week(likely commuting to and from work), advertisements intended for young, business professionals who work in inner cities would be ideal to capture a larger audience. 
 * Because the work week is often the most popular days, offering an incentive(discount, bonus points, etc.) for people to use the bikes on the weekend would be beneficial to maintaining a more consistent revenue across the entire week.
