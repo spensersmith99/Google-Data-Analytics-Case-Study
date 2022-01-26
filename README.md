@@ -1,23 +1,23 @@
 # Google-Data-Analytics-Case-Study
 My Google Data Analytics Case Study.
 
-The goal of this case study was to analyze data from a bike share company called Cyclistic and help determine a way for them to convert more customers into monthly susbcribers.
+The goal of this case study was to analyze data from a bike share company called Cyclistic and help determine the best way for them to gain more monthly susbcribers.
 
-The project began by cleaning and processing an Excel worksheet supplied by Google. I applied the following to the data set in order to gain a clearer understanding of the data and its potential purpose:
-* removed duplicates and blanks
-* sorted data based on date of transaction (oldest to newest)
-* added trip duration and day of week columns
+I began the project by downloading the relevant company data from all four quarters of 2019 into a single Excel spreadsheet. First, I performed the following tasks in order to better understand the information contained in my dataset:
+* removed all duplicates and any blank or null values
+* sorted based on date of transaction (oldest to newest)
+* added trip duration and weekday columns
 * applied conditional formatting to User Type column to easily identify who was a subscriber and who was not
 * added a filter to Gender column
 * concatenated date and time into one column
 
-Next, I analyzed the data to gain some meaningful knowledge on it:
+Next, I analyzed the data using built-in Excel tools:
 * created pivot tables that contained information on average trip duration and count of trips by weekday
+* performed calculations like average birth year of customer(1982), average trip duration(00:16:56), and busiest day of the week(Thursday)
 * graphed daily transactions based on what day of the week it was 
 * graphed transactions based on if they were male/female and subscriber/nonsubscriber
-* performed calculations like average birth year of customer(1982), average trip duration(00:16:56), and busiest day of the week(Thursday)
 
-![Link to aforementioned graphs](https://github.com/spensersmith99/Google-Data-Analytics-Case-Study/tree/main/images)
+![Link to aforementioned pivot tables and graphs](https://github.com/spensersmith99/Google-Data-Analytics-Case-Study/tree/main/images)
 
 Next, blah blah blah SQL.
 
