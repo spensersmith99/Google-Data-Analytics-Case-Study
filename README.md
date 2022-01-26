@@ -3,8 +3,8 @@ My Google Data Analytics Case Study.
 
 The goal of this case study was to analyze data from a bike share company called Cyclistic and help determine the best way for them to gain more monthly susbcribers.
 
-### Excel
-I began the project by downloading the relevant company data from the first quarter of 2019 into an Excel spreadsheet. First, I performed the following tasks in order to better understand the information contained in my dataset:
+## Excel
+I began the project by downloading the relevant company data from the first quarter of 2019 into an Excel spreadsheet. I performed the following tasks in order to better understand the information contained in my dataset:
 * removed all duplicates and any blank or null values
 * sorted based on date of transaction (oldest to newest)
 * added trip duration and weekday columns
@@ -20,8 +20,8 @@ Next, I analyzed the data using built-in Excel tools:
 
 ![Link to pivot tables and graphs for Q1 2019](https://github.com/spensersmith99/Google-Data-Analytics-Case-Study/tree/main/images)
 
-## SQL 
-Then, I took the datasets for all of the quarters of 2019 and put them into a SQL database. After appending the four separate tables into one, I ran the following queries: 
+## SQL(BigQuery)
+In order to find more pertinent information on Cyclistic's yearly sales, I constructed a SQL database from the four, separate Excel spreadsheets and appended them into one, year-long data table. Then, I ran the following queries: 
 
 ![Link to SQL queries](https://github.com/spensersmith99/Google-Data-Analytics-Case-Study/blob/main/example_queries.sql)
 
