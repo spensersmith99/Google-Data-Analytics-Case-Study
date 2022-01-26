@@ -1,4 +1,5 @@
 # Google-Data-Analytics-Case-Study
+Spenser's Google Data Analytics Case Study
 
 The goal of this case study was to analyze data from a bike share company called Cyclistic and help determine the best way for them to gain more monthly susbcribers.
 
