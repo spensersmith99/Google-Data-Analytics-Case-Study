@@ -20,7 +20,7 @@ Next, I analyzed the data using built-in Excel tools:
 
 ![Link to pivot tables and graphs for Q1 2019](https://github.com/spensersmith99/Google-Data-Analytics-Case-Study/tree/main/images)
 
-## SQL(BigQuery)
+## SQL (BigQuery)
 In order to find more pertinent information on Cyclistic's yearly sales, I constructed a SQL database from the four, separate Excel spreadsheets and appended them into one, year-long data table. Then, I ran the following queries: 
 
 ![Link to SQL queries for all of 2019](https://github.com/spensersmith99/Google-Data-Analytics-Case-Study/blob/main/example_queries.sql)
