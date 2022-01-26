@@ -25,9 +25,9 @@ Then, I took the datasets for the corresponding quarter of 2019 and put them int
 
 Then, I created a Tableau dashboard to visualize the data and help reach important conclusions:
 
-![If you have Tableau installed, download Tableau workbook here](https://github.com/spensersmith99/Google-Data-Analytics-Case-Study/blob/main/spensers_casestudy.twbx)
+![If you have Tableau installed, download the Tableau workbook here](https://github.com/spensersmith99/Google-Data-Analytics-Case-Study/blob/main/spensers_casestudy.twbx)
 
-![If you don't, download the image here](https://github.com/spensersmith99/Google-Data-Analytics-Case-Study/blob/main/Dashboard%201.pdf)
+![If you don't, access the image here](https://github.com/spensersmith99/Google-Data-Analytics-Case-Study/blob/main/Dashboard%201.pdf)
 
 Finally, I offered up some solutions based on my findings:
 * Since subscribers are mostly males who use the bike for short trips during the week(likely commuting to and from work), advertisements intended for young, business professionals who work in inner cities would be ideal to capture a larger target audience. 
