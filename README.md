@@ -5,7 +5,7 @@ The goal of this case study was to analyze data from a bike share company called
 
 ## Excel
 I began the project by downloading the relevant company data from the first quarter of 2019 into an Excel spreadsheet. I performed the following tasks in order to better understand the information contained in my dataset:
-* removed all duplicates and any blank or null values
+* removed all duplicates and fixed any blank or null values
 * sorted based on date of transaction (oldest to newest)
 * added trip duration and weekday columns
 * applied conditional formatting to User Type column to easily identify who was a subscriber and who was not
