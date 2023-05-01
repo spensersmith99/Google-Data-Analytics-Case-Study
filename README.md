@@ -34,6 +34,6 @@ Afterwards, I created a Tableau dashboard to better visualize the data and draw 
 
 ## Conclusions
 Finally, I offered up some viable action steps based on my findings:
-* Since subscribers are mostly males who use the bike for short trips during the week(likely commuting to and from work), advertisements intended for young, business professionals who work in inner cities would be ideal to take advantage of a specific audience. 
-* Because the work week is often the most popular days, offering an incentive(discount, bonus points, etc.) for people to use the bikes on the weekend would be beneficial to maintaining a more consistent revenue across the entire week.
+* Since subscribers are mostly males who use the bike for short trips during the week (likely commuting to and from work), advertisements intended for young, business professionals who work in inner cities would be ideal to take advantage of a specific audience. 
+* Because the work week is often the most popular days, offering an incentive (discount, bonus points, etc.) for people to use the bikes on the weekend would be beneficial to maintaining a more consistent revenue across the entire week.
 * Since most of the total bike user population is already comprised of subscribers, resources are best spent acquiring new customers rather than trying to convert current ones into subscribers.
